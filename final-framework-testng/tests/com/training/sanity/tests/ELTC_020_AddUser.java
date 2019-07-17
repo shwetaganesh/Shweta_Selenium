@@ -51,16 +51,6 @@ public class ELTC_020_AddUser {
 		loginPOM.clickLoginBtn(); 
 		screenShot.captureScreenShot("First");
 	}
-	@Test(priority=2)
-	public void editUser() throws InterruptedException
-	
-	{
-		AdminHomePOM adminHome = new AdminHomePOM(driver);
-		adminHome.clickAdminTab();
-		Thread.sleep(3000);
-		adminHome.clickAddUser();
-		
-	}
 	@Test(priority=3)
 	public void addUser() throws InterruptedException
 	{

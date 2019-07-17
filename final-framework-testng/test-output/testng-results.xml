@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="37547" started-at="2019-07-02T05:33:04Z" finished-at="2019-07-02T05:33:42Z">
+  <suite name="Default suite" duration-ms="36981" started-at="2019-07-16T07:36:31Z" finished-at="2019-07-16T07:37:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="37547" started-at="2019-07-02T05:33:04Z" finished-at="2019-07-02T05:33:42Z">
-      <class name="com.training.sanity.tests.ELTC_021_DeleteCourse">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.ELTC_021_DeleteCourse@2a18f23c]" name="setUpBeforeClass" is-config="true" duration-ms="12197" started-at="2019-07-02T11:03:04Z" finished-at="2019-07-02T11:03:16Z">
+    <test name="Default test" duration-ms="36981" started-at="2019-07-16T07:36:31Z" finished-at="2019-07-16T07:37:08Z">
+      <class name="com.training.sanity.tests.ELTC_051_ModifyUserDetails">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.ELTC_051_ModifyUserDetails@16c0663d]" name="setUpBeforeClass" is-config="true" duration-ms="10635" started-at="2019-07-16T13:06:31Z" finished-at="2019-07-16T13:06:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="validLoginTest()[pri:1, instance:com.training.sanity.tests.ELTC_021_DeleteCourse@2a18f23c]" name="validLoginTest" duration-ms="7828" started-at="2019-07-02T11:03:16Z" finished-at="2019-07-02T11:03:24Z">
+        <test-method status="PASS" signature="validLoginTest()[pri:1, instance:com.training.sanity.tests.ELTC_051_ModifyUserDetails@16c0663d]" name="validLoginTest" duration-ms="5196" started-at="2019-07-16T13:06:42Z" finished-at="2019-07-16T13:06:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-        <test-method status="PASS" signature="editUser()[pri:2, instance:com.training.sanity.tests.ELTC_021_DeleteCourse@2a18f23c]" name="editUser" duration-ms="4303" started-at="2019-07-02T11:03:24Z" finished-at="2019-07-02T11:03:28Z">
+        <test-method status="PASS" signature="editUser()[pri:2, instance:com.training.sanity.tests.ELTC_051_ModifyUserDetails@16c0663d]" name="editUser" duration-ms="1541" started-at="2019-07-16T13:06:47Z" finished-at="2019-07-16T13:06:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editUser -->
-        <test-method status="PASS" signature="deleteCourse()[pri:3, instance:com.training.sanity.tests.ELTC_021_DeleteCourse@2a18f23c]" name="deleteCourse" duration-ms="11207" started-at="2019-07-02T11:03:28Z" finished-at="2019-07-02T11:03:40Z">
+        <test-method status="PASS" signature="ModifyUserDetailscheck()[pri:3, instance:com.training.sanity.tests.ELTC_051_ModifyUserDetails@16c0663d]" name="ModifyUserDetailscheck" duration-ms="17547" started-at="2019-07-16T13:06:48Z" finished-at="2019-07-16T13:07:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteCourse -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.ELTC_021_DeleteCourse@2a18f23c]" name="tearDown" is-config="true" duration-ms="1980" started-at="2019-07-02T11:03:40Z" finished-at="2019-07-02T11:03:42Z">
+        </test-method> <!-- ModifyUserDetailscheck -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.ELTC_051_ModifyUserDetails@16c0663d]" name="tearDown" is-config="true" duration-ms="2036" started-at="2019-07-16T13:07:06Z" finished-at="2019-07-16T13:07:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.training.sanity.tests.ELTC_021_DeleteCourse -->
+      </class> <!-- com.training.sanity.tests.ELTC_051_ModifyUserDetails -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
